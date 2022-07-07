@@ -4,6 +4,8 @@ Olá, eu sou Elias Moura.
 
 ![ecd9aa44-2837-4d8f-beae-6a46d1d6376e](https://user-images.githubusercontent.com/94901954/177826416-2ae8c9b8-25e7-4f50-b42a-678d98516788.jpg)
 
+Moro no Rio de Janeiro-RJ.
+
 ## Meus hobbies:
 
 - Passar o tempo em família
