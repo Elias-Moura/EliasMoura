@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu perfil.
 
-Eu sou Elias Moura.
+Olá, eu sou Elias Moura.
+
+![ecd9aa44-2837-4d8f-beae-6a46d1d6376e](https://user-images.githubusercontent.com/94901954/177826416-2ae8c9b8-25e7-4f50-b42a-678d98516788.jpg)
 
 ## Meus hobbies:
 
@@ -12,6 +14,14 @@ Eu sou Elias Moura.
 ## Atualmente estudando:
 
 - Python (quero reduzir o número de tarefas repetitivas no meu trabalho)
+
+## Certificações:
+
+CEA - Anbima
+
+## Trabalho atual:
+
+- Planejamento financeiro e consultoria de investimentos.
 
 ## Meus contatos
 
